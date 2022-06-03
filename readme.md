@@ -8,3 +8,5 @@
 7. Entramos en GitHub y creamos un repositorio desde ahí, también llamado **repo01**.
 8. Copiamos el enlace a este repositorio, para luego vincular los repositorios local y remoto utilizando el comando `git remote add origin https://github.com/celiapdg/repo01.git`
 9. Para que el repositorio remoto contenga los cambios realizados en el repositorio local, haremos un push a la rama master `git push -u origin master`
+
+Si ahora nos dirigimos al enlace del [repositorio](https://github.com/celiapdg/repo01), veremos que el readme está actualizado en la web.
